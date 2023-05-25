@@ -1,2 +1,1 @@
-### no se que escribir
-hola christian 
+### Programas dentro del desarrollo de reconocimiento facial
